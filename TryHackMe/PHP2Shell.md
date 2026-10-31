@@ -1,6 +1,7 @@
 # PHP2Shell – TryHackMe
 
 **Focus:** Core Interpreter Vulnerabilities (CVE-2026-109618 & CVE-2026-109619), Memory Bailouts, ASLR Bypass, and Pre-Authentication Remote Code Execution
+**Room Link:** [PHP2Shell on TryHackMe](https://tryhackme.com)
 
 ## Introduction
 
