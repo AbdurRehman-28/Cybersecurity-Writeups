@@ -1,6 +1,7 @@
 # DigDug — TryHackMe
 
 **Focus:** DNS Enumeration
+**Room Link:** [DigDug on TryHackMe](https://tryhackme.com)
 
 ## Reconnaissance
 
