@@ -9,6 +9,7 @@ A collection of hands-on write-ups documenting my journey in ethical hacking and
 Write-ups from TryHackMe rooms and challenges covering various areas of ethical hacking and penetration testing.
 
 - [DigDug](./TryHackMe/DigDug.md) — DNS Enumeration
+- [PHP2Shell](./TryHackMe/PHP2Shell.md) — PHP Engine Memory Corruption & RCE
 
 ## PortSwigger
 
